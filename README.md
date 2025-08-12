@@ -1,5 +1,4 @@
-
-Projeto finalizado: Ferramenta de simulação de controle de investimento com Excel
+Ferramenta de simulação de controle de investimento com Excel
 
 Este projeto foi desenvolvido em parceria com a DIO durante o Bootcamp Santander - Excel com Inteligência Artificial.
 
